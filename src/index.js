@@ -1,14 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import Card from './Card';
+import App from './containers/App';
 import reportWebVitals from './reportWebVitals';
+import 'tachyons';  // provides cool syntax
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('root')); 
+// on loading the page App componenet gets mounted on documnet with id = root
+// Mounting refers to replacing div having root id in indexedDB.html with App Component
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+	<App/>
 );
 
 // If you want to start measuring performance in your app, pass a function
