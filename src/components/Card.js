@@ -1,5 +1,5 @@
 import React from 'react';
-// we need to have React to work with JSX
+// we need to have React to work with JSX 
 
 const Card = (props) => {
     // only one element should be returned
