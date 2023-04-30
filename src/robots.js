@@ -3,63 +3,73 @@
 export const robots = [
     {
       id: 1,
-      name: 'Leanne Graham',
-      username: 'Bret',
-      email: 'Sincere@april.biz'
+      name: 'Masala Papad',
+      price: '₹60',
+      email: 'Shanna@melissa.tv',
+      image: 'masalaPapad.jpg'
     },
     {
       id: 2,
-      name: 'Ervin Howell',
-      username: 'Antonette',
-      email: 'Shanna@melissa.tv'
+      name: 'Paneer Tikka',
+      price: '₹220',
+      email: 'Shanna@melissa.tv',
+      image: 'paneerTikka.jpg'
     },
     {
       id: 3,
-      name: 'Clementine Bauch',
-      username: 'Samantha',
-      email: 'Nathan@yesenia.net'
+      name: 'Butter Chicken',
+      price: '₹350',
+      email: 'Nathan@yesenia.net',
+      image: 'butterChicken.jpg'
     },
     {
       id: 4,
-      name: 'Patricia Lebsack',
-      username: 'Karianne',
-      email: 'Julianne.OConner@kory.org'
+      name: 'Aloo Gobhi',
+      price: '₹180',
+      email: 'Julianne.OConner@kory.org',
+      image: 'alooGobhi.jpg'
     },
     {
       id: 5,
-      name: 'Chelsey Dietrich',
-      username: 'Kamren',
-      email: 'Lucio_Hettinger@annie.ca'
+      name: 'Dal Tadka',
+      price: '₹150',
+      email: 'Lucio_Hettinger@annie.ca',
+      image: 'dalTadka.jpg'
     },
     {
       id: 6,
-      name: 'Mrs. Dennis Schulist',
-      username: 'Leopoldo_Corkery',
-      email: 'Karley_Dach@jasper.info'
+      name: 'Tawa Roti',
+      price: '₹15',
+      email: 'Karley_Dach@jasper.info',
+      image: 'tawaRoti.jpg'
     },
     {
       id: 7,
-      name: 'Kurtis Weissnat',
-      username: 'Elwyn.Skiles',
-      email: 'Telly.Hoeger@billy.biz'
+      name: 'Garlic Naan',
+      price: '₹25',
+      email: 'Telly.Hoeger@billy.biz',
+      image: 'garlicNaan.jpg'
     },
     {
       id: 8,
-      name: 'Nicholas Runolfsdottir V',
-      username: 'Maxime_Nienow',
-      email: 'Sherwood@rosamond.me'
+      name: 'Paneer Pratha',
+      price: '₹45',
+      email: 'Sherwood@rosamond.me',
+      image: 'paneerPratha.jpg'
     },
     {
       id: 9,
-      name: 'Glenna Reichert',
-      username: 'Delphine',
-      email: 'Chaim_McDermott@dana.io'
+      name: 'Gajar Halwa',
+      price: '₹140',
+      email: 'Chaim_McDermott@dana.io',
+      image: 'gajarHalwa.jpg'
     },
     {
       id: 10,
-      name: 'Clementina DuBuque',
-      username: 'Moriah.Stanton',
-      email: 'Rey.Padberg@karina.biz'
+      name: 'Chocolate Shake',
+      price: '₹100',
+      email: 'Rey.Padberg@karina.biz',
+      image: 'choclateShake.jpg'
     }
   ];
   

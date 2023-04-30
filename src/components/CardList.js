@@ -12,7 +12,8 @@ const CardList = ({robots}) => {
             key={i} 
             id={robots[i].id} 
             name={robots[i].name} 
-            email={robots[i].email}
+            price={robots[i].price}
+            image={robots[i].image}
             />);
     })
     return(
