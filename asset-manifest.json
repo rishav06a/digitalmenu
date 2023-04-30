@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/alienfriends/static/css/main.b2002ba3.css",
-    "main.js": "/alienfriends/static/js/main.bef71b95.js",
-    "static/js/787.4a346688.chunk.js": "/alienfriends/static/js/787.4a346688.chunk.js",
-    "static/media/SEGA.woff": "/alienfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/alienfriends/index.html",
-    "main.b2002ba3.css.map": "/alienfriends/static/css/main.b2002ba3.css.map",
-    "main.bef71b95.js.map": "/alienfriends/static/js/main.bef71b95.js.map",
-    "787.4a346688.chunk.js.map": "/alienfriends/static/js/787.4a346688.chunk.js.map"
+    "main.css": "/digitalmenu/static/css/main.744f068c.css",
+    "main.js": "/digitalmenu/static/js/main.9a241cd8.js",
+    "static/js/787.18f73a1b.chunk.js": "/digitalmenu/static/js/787.18f73a1b.chunk.js",
+    "static/media/SEGA.woff": "/digitalmenu/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/digitalmenu/index.html",
+    "main.744f068c.css.map": "/digitalmenu/static/css/main.744f068c.css.map",
+    "main.9a241cd8.js.map": "/digitalmenu/static/js/main.9a241cd8.js.map",
+    "787.18f73a1b.chunk.js.map": "/digitalmenu/static/js/787.18f73a1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2002ba3.css",
-    "static/js/main.bef71b95.js"
+    "static/css/main.744f068c.css",
+    "static/js/main.9a241cd8.js"
   ]
 }
