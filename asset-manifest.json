@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/alienfriends/static/css/main.b2002ba3.css",
-    "main.js": "/alienfriends/static/js/main.9cf47b8c.js",
+    "main.js": "/alienfriends/static/js/main.bef71b95.js",
     "static/js/787.4a346688.chunk.js": "/alienfriends/static/js/787.4a346688.chunk.js",
     "static/media/SEGA.woff": "/alienfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/alienfriends/index.html",
     "main.b2002ba3.css.map": "/alienfriends/static/css/main.b2002ba3.css.map",
-    "main.9cf47b8c.js.map": "/alienfriends/static/js/main.9cf47b8c.js.map",
+    "main.bef71b95.js.map": "/alienfriends/static/js/main.bef71b95.js.map",
     "787.4a346688.chunk.js.map": "/alienfriends/static/js/787.4a346688.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2002ba3.css",
-    "static/js/main.9cf47b8c.js"
+    "static/js/main.bef71b95.js"
   ]
 }
